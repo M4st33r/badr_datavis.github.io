@@ -137,6 +137,9 @@ body {
   display: flex;
   /* border: 1px solid black; */
 }
+.push {
+  margin: 5%;
+}
 
 /* MultiMedia */
 
